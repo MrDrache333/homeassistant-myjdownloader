@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/doudz/homeassistant-myjdownloader.svg?branch=master)](https://travis-ci.com/doudz/homeassistant-myjdownloader)
+[![Build Status](https://travis-ci.com/MrDrache333/homeassistant-myjdownloader.svg?branch=master)](https://travis-ci.com/MrDrache333/homeassistant-myjdownloader)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/kenoog)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-green.svg)](https://github.com/custom-components/hacs)
 
