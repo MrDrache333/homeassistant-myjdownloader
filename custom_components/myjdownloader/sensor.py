@@ -110,7 +110,7 @@ class MyJDSensor(Entity):
                 currentDownloads = [x for x in downloadList if not x.get('finished', False)]
 
             # get current speed information
-            value = Number(device.downloadcontroller.get_speed_in_bytes()) / 1000000
+            value = device.downloadcontroller.get_speed_in_bytes() / 1000000
 
             # set values
             self._attributes['name'] = device.name
