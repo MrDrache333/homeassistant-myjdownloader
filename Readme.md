@@ -8,10 +8,10 @@ A simple sensor for MyJDownloader state
 
 ``` YAML
 sensor:
-  - platform: myjdownloader
+  - platform: myjdownloader_kog
     email: myname@email.com
     password: mypassword
-    name: JDownloader@doudz # optional, if not provided all JDownloader devices will be generated.
+    name: JDownloader@keno # optional, if not provided all JDownloader devices will be generated.
     scan_interval: 5 # optional - default is 60
 ```
 
